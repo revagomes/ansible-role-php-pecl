@@ -1,11 +1,10 @@
 ---
-dependencies:
-  - { role: geerlingguy.php }
+dependencies: []
 
 galaxy_info:
-  author: geerlingguy
+  author: revagomes
   description: PHP PECL extension installation.
-  company: "Midwestern Mac, LLC"
+  company: "Taller Web Solutions"
   license: "license (BSD, MIT)"
   min_ansible_version: 1.4
   platforms:
